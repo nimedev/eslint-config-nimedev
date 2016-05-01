@@ -1,0 +1,35 @@
+{
+  "name": "eslint-config-nimedev",
+  "version": "0.1.0",
+  "description": "ESLint shareable config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nimedev/eslint-config-nimedev"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "javascript",
+    "styleguide",
+    "code checker",
+    "code linter",
+    "code style"
+  ],
+  "author": {
+    "name": "Nicolas Mejia",
+    "email": "nimedev@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nimedev/eslint-config-nimedev/issues"
+  },
+  "homepage": "https://github.com/nimedev/eslint-config-nimedev",
+  "peerDependencies": {
+    "eslint": "^2.9.0"
+  }
+}
