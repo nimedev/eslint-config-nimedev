@@ -43,4 +43,4 @@ For example, to change the `indentation` to tabs and turn off the `no-console` r
 
 ## [Changelog](CHANGELOG.md)
 
-## [License](LICENSE)
+## [License](LICENSE.md)
