@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-nimedev",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "ESLint shareable config",
   "main": "index.js",
   "scripts": {
