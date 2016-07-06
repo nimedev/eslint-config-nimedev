@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-nimedev",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "ESLint shareable config",
   "main": "index.js",
   "scripts": {
@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/nimedev/eslint-config-nimedev",
   "peerDependencies": {
-    "eslint": "^2.9.0"
+    "eslint": "^3.0.1"
   }
 }
