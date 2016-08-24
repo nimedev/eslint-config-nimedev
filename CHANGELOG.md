@@ -1,5 +1,11 @@
 # Change Log
 
+## [3.0.1] - 2016-08-24
+
+### Updated
+- Change ingnore patterns max-len rule.
+
+
 ## [3.0.0]
 
 ### Updated

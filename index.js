@@ -20,7 +20,7 @@ module.exports = {
       "error",
       80,
       {
-        "ignorePattern": "`",
+        "ignorePattern": "/",
         "ignoreUrls": true
       }
     ],
