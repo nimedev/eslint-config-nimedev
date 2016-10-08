@@ -9,6 +9,7 @@ module.exports = {
     "sourceType": "module"
   },
   "rules": {
+    "comma-dangle": 2,
     "indent": [
       "error",
       2,
